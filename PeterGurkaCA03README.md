@@ -1,4 +1,5 @@
-# BSAN6070
+# BSAN6070 CA03
+
 
 The files necessary for this project should be found in the MSBA Colab Folder under ML Algorithms under CA03 in the same fashion as the other assignments have done
 
